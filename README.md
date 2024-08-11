@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mercury1565.github.io/Portfolio-Website/](https://mercury1565.github.io/Portfolio-Website/)
 
-- 📫 How to reach me **hermongetachew10@gmail.com**
+- 📫 Reach me out on **hermongetachew10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
